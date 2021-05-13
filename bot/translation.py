@@ -46,7 +46,7 @@ For More Details Click Help Button Below..
 @Cinema_FestivalTG
 """
     
-    ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
+    ABOUT_TEXT = """<b>➥ Name</b> : <code> CF Auto Search Bot</code>
     
 <b>➥ Creator</b> : <b><i><a href="https://t.me/Cinema_FestivalTG">Cinema Festival</a></i></b>
 
