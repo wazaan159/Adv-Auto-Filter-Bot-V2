@@ -1608,7 +1608,7 @@ async def cb_about(bot, update: CallbackQuery):
         [
             InlineKeyboardButton
                 (
-                    "My Dev ⚡", url="https://t.me/AlbertEinstein_TG"
+                    "Channel ⚡", url="https://t.me/Cinema_FestivalTG"
                 ),
                 
             InlineKeyboardButton
@@ -1640,7 +1640,7 @@ async def callback_data(bot, update: CallbackQuery):
     if query_data == "start":
         buttons = [[
             InlineKeyboardButton('Developers', url='https://t.me/Cinema_FestivalTG'),
-            InlineKeyboardButton('FB Page', url ='https://www.facebook.com/CinemaFestivalOfficial')
+            InlineKeyboardButton('FB Page', url ='https://www.facebook.com/CinemaFestivalFB')
         ],[
             InlineKeyboardButton('Group', url='https://t.me/CF_OfficialGroup')
         ],[
